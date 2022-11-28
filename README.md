@@ -9,8 +9,9 @@
  -  To Generate Android apk [Read Here](https://reactnative.dev/docs/signed-apk-android) 
  - Make sure after installing app, provide **nearby devices Permission**
  
- 
- 
+ ---
+ ---
+ ---
 ScreenShots 👇
 
 ![image](https://user-images.githubusercontent.com/65588931/204243326-c06cf31a-e037-4dd2-8348-0160fdad0110.png)
@@ -24,9 +25,9 @@ ScreenShots 👇
 ![image](https://user-images.githubusercontent.com/65588931/204243531-82026f89-ef79-4179-a91f-2e3a1776c05a.png)
 
 
-
-
-
+---
+---
+---
 
 After Login with Correct Account 👇
 
