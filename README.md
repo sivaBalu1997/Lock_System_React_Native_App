@@ -2,8 +2,9 @@
 
 ## Steps to generate Android APK
 
- - Fork this Repository and pull it to your device 
+- Fork this Repository and pull it to your device 
  - Run **npm install** from terminal in project directory
+ - Create your Graphql account [here](https://hygraph.com/)
  - Replace GRAPHQL_URL, GRAPHQL_TOKEN with your graphql credentials in /src/services/index.js file
  - Replace BACKEND_URL with your nodejs backend url in /src/services/mailService.js file
  -  To Generate Android apk [Read Here](https://reactnative.dev/docs/signed-apk-android) 
