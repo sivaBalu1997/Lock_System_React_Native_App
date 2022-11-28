@@ -1,5 +1,15 @@
 # Lock_System_React_Native_App
 
+## Steps to generate Android APK
+
+ - Fork this Repository and pull it to your device 
+ - Run **npm install** from terminal in project directory
+ - Replace GRAPHQL_URL, GRAPHQL_TOKEN with your graphql credentials in /src/services/index.js file
+ - Replace BACKEND_URL with your nodejs backend url in /src/services/mailService.js file
+ -  To Generate Android apk [Read Here](https://reactnative.dev/docs/signed-apk-android) 
+ - Make sure after installing app, provide **nearby devices Permission**
+ 
+ 
 ScreenShots 👇
 
 ![image](https://user-images.githubusercontent.com/65588931/204243326-c06cf31a-e037-4dd2-8348-0160fdad0110.png)
