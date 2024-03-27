@@ -4,7 +4,7 @@
  *
  * @format
  */
-const {getDefaultConfig, mergeConfig} = require('@react-native/metro-config');
+/*const {getDefaultConfig, mergeConfig} = require('@react-native/metro-config');
 const defaultSourceExts = require('metro-config/src/defaults/defaults').sourceExts;
 const defaultAssetExts = require('metro-config/src/defaults/defaults').assetExts;
 /**
@@ -28,9 +28,9 @@ module.exports = mergeConfig(getDefaultConfig(__dirname), {
         assetExts: defaultAssetExts.filter(ext => ext !== 'svg'),
         sourceExts: [...defaultSourceExts, 'svg'],
     },
-});
+});*/
 
-/*module.exports = {
+module.exports = {
   transformer: {
     getTransformOptions: async () => ({
       transform: {
@@ -39,4 +39,4 @@ module.exports = mergeConfig(getDefaultConfig(__dirname), {
       },
     }),
   },
-};*/
+};
